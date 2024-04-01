@@ -20,7 +20,7 @@ function App() {
             <th>LastName</th>
             <th>Hourly pay</th>
             <th>Date</th>
-            <th>hey</th>
+            <th>he</th>
           </tr>
         </thead>
         <tbody>
